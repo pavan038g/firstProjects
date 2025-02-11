@@ -20,7 +20,12 @@
 
 first time user
 ---------------
-git config --global user.name "Pavan"
-git config --global user.email "pavankalyan038g@gmail.com"
-give git init //initialize your repository
-give git status to  know the status
+1.git config --global user.name "Pavan"
+2.git config --global user.email "pavankalyan038g@gmail.com"
+3.give git init //initialize your repository
+4.give git status to  know the status
+5.give add . it will move from untracked to staged state 
+6.now if any changes made and give command git status it will show unstaged.
+7.give git commit -m "message "
+8.git remote add origin https://github.com/pavan038g/firstprojects.git
+9.git push -u origin master
