@@ -31,3 +31,20 @@ first time user
 9.git push -u origin master
 10.git clone https://github.com/Sirajuddin135/E-Commerce-Application (to bring others git repo)
 11.git pull (if any changes made directly in github)
+
+Branches
+---------
+if you consider your repository as stem.
+it can contain numerous branches
+
+task1 -> login feature branch
+        work -> commit -> push
+pull Request
+  master < - new branch 
+Master ->
+  Environments
+     Dev -> Meta 
+     QA  -> Testers
+     PP
+     UAT -> clients
+     Prod -> users
