@@ -1,0 +1,26 @@
+1.Untracked
+-------------
+   Git is not tracking these file
+        git add filename -> tracked
+        git add Employee.java
+        git add . -> which takes all files and make tracked
+
+2.Unstaged
+------------
+	You have made some changes in your Employee. File is unstaged state.
+
+3.Staged
+-----------
+ git add .
+4.committed
+  git commit -m "Message while committing git"
+
+->Move to git Hub by giving git Push
+->
+
+first time user
+---------------
+git config --global user.name "Pavan"
+git config --global user.email "pavankalyan038g@gmail.com"
+give git init //initialize your repository
+give git status to  know the status
