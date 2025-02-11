@@ -36,6 +36,13 @@ Branches
 ---------
 if you consider your repository as stem.
 it can contain numerous branches
+git branch 
+  shows how many branches are there
+git checkout
+  To switch between branches
+  ex:git checkout branch1 - already existing branch
+     git checkout -b branch1- to create a new branch
+     you can give git branch branch3 so it will create new branch
 
 task1 -> login feature branch
         work -> commit -> push
@@ -48,3 +55,4 @@ Master ->
      PP
      UAT -> clients
      Prod -> users
+
