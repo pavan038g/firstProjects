@@ -29,3 +29,5 @@ first time user
 7.give git commit -m "message "
 8.git remote add origin https://github.com/pavan038g/firstprojects.git
 9.git push -u origin master
+10.git clone https://github.com/Sirajuddin135/E-Commerce-Application (to bring others git repo)
+11.git pull (if any changes made directly in github)
