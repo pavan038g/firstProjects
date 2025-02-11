@@ -32,11 +32,6 @@ first time user
 10.git clone https://github.com/Sirajuddin135/E-Commerce-Application (to bring others git repo)
 11.git pull (if any changes made directly in github)
 
-Branches
----------
-if you consider your repository as stem.
-it can contain numerous branches
-
 task1 -> login feature branch
         work -> commit -> push
 pull Request
@@ -48,3 +43,16 @@ Master ->
      PP
      UAT -> clients
      Prod -> users
+
+
+Branches
+---------
+if you consider your repository as stem.
+it can contain numerous branches
+git branch 
+  shows how many branches are there
+git checkout
+  To switch between branches
+  ex:git checkout branch1 - already existing branch
+     git checkout -b branch1- to create a new branch
+     you can give git branch branch3 so it will create new branch
